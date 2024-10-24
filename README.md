@@ -1,0 +1,1 @@
+This repository includes the assignment: OOP Fundamentals in Module 4: Lesson 2 of the Software Engineering Core.
